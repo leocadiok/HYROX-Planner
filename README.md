@@ -1,2 +1,6 @@
 # HYROX-Planner
-Designer da interface (Terminal) do sistema da academia HYROX , projeto desenvolvido em Python como atividade avaliativa em grupo da disciplina de Fundamentos da Programação.
+Desenvolvida a identidade visual do sistema da academia no terminal.
+O que foi feito? 
+Criados menus interativos para navegação das funcionalidades.
+Formatadas as saídas de dados para garantir boa legibilidade para o usuário.
+Atividade desenvolvida como parte da avaliação em grupo de Fundamentos da Programação.
